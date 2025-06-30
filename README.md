@@ -10,12 +10,12 @@ Objectif : concevoir, administrer et sécuriser une base de données relationnel
 
 ## Équipe projet
 
-| Nom            | Prénom     | Rôle principal                         |
-|----------------|------------|----------------------------------------|
-| BELLOIR         | Félix  | Modélisation BDD (MCD/MLD), scripts SQL |
-| CARRE         | Adrien  | Supervision, sauvegarde, triggers       |
-| BERTRAND T         | Corentin | Sécurité, utilisateurs, vues filtrées   |
-| BOURNAUD         | Tom  | Requêtes métiers, documentation         |
+| Nom            | Prénom     |
+|----------------|------------|
+| BELLOIR         | Félix  |
+| CARRE         | Adrien  |
+| BERTRAND T         | Corentin |
+| BOURNAUD         | Tom  |
 
 ---
 
