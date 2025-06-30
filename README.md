@@ -20,8 +20,7 @@ Objectif : concevoir, administrer et sécuriser une base de données relationnel
 ---
 
 ## 🗂️ Contenu du projet
-
-
+```
 ├── seahawks_monitoring_db/
 │ ├── README.md
 │ ├── backups/
@@ -43,7 +42,7 @@ Objectif : concevoir, administrer et sécuriser une base de données relationnel
 │ │ ├── optimisation_vues.sql
 │ │ ├── requets-trigger.sql
 │ │ ├── roles_permissions.sql
-
+```
 
 ---
 
