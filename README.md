@@ -1,6 +1,6 @@
-# 📦 Projet MSPR BDD – Nester Manager / Seahawks Monitoring
+# Projet MSPR BDD – Nester Manager / Seahawks Monitoring
 
-## 🧾 Présentation
+## Présentation
 
 Ce projet a été réalisé dans le cadre de la MSPR BDD du titre **Administrateur Systèmes, Réseaux et Bases de Données (ASRBD)**.
 
@@ -8,7 +8,7 @@ Objectif : concevoir, administrer et sécuriser une base de données relationnel
 
 ---
 
-## 👥 Équipe projet
+## Équipe projet
 
 | Nom            | Prénom     | Rôle principal                         |
 |----------------|------------|----------------------------------------|
@@ -19,7 +19,7 @@ Objectif : concevoir, administrer et sécuriser une base de données relationnel
 
 ---
 
-## 🗂️ Contenu du projet
+## Contenu du projet
 ```
 ├── seahawks_monitoring_db/
 │ ├── README.md
@@ -46,7 +46,7 @@ Objectif : concevoir, administrer et sécuriser une base de données relationnel
 
 ---
 
-## ⚙️ Stack technique
+## Stack technique
 
 - **PostgreSQL** : SGBD principal
 - **PgAdmin 4** : Interface de gestion
@@ -57,7 +57,7 @@ Objectif : concevoir, administrer et sécuriser une base de données relationnel
 
 ---
 
-## 🔐 Sécurité & Accès
+## Sécurité & Accès
 
 - 3 utilisateurs créés : admin, lecture seule, prestataire avec vues restreintes
 - Authentification renforcée et filtrage réseau
@@ -66,7 +66,7 @@ Objectif : concevoir, administrer et sécuriser une base de données relationnel
 
 ---
 
-## 📊 Supervision
+## Supervision
 
 Un script Python collecte les indicateurs suivants :
 - Requêtes par seconde
@@ -79,19 +79,19 @@ Export HTML automatique consultable en local.
 
 ---
 
-## ✅ Réalisations principales
+## Réalisations principales
 
-- 🔧 MCD / MLD
-- 📦 Déploiement SQL automatisé
-- 🛡️ Droits et vues sécurisées
-- 🔁 Sauvegarde + restauration testées
-- 🧠 Supervision live (HTML)
-- 🧮 Requêtes métier + trigger personnalisés
-- 📘 Documentation claire et structurée
+- MCD / MLD
+- Déploiement SQL automatisé
+- Droits et vues sécurisées
+- Sauvegarde + restauration testées
+- Supervision live (HTML)
+- Requêtes métier + trigger personnalisés
+- Documentation claire et structurée
 
 ---
 
-## 📅 Organisation
+## Organisation
 
 - Planification initiale en 7 semaines
 - Répartition claire des tâches (voir tableau équipe)
